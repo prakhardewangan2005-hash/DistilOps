@@ -1,0 +1,18 @@
+{
+  "run_id": "run-0001",
+  "dataset": "ag_news",
+  "teacher_accuracy": 0.932,
+  "student_accuracy": 0.897,
+  "accuracy_delta": -0.035,
+  "model_size_mb": 67.3,
+  "p50_ms": 12.4,
+  "p95_ms": 28.7,
+  "error_rate": 0.012,
+  "availability": 0.999,
+  "cost_usd": 247.50,
+  "gate": {
+    "release_gate": "blocked",
+    "blockers": ["p95_latency_target", "fairness_gap"]
+  },
+  "updated_at": "2026-02-02T00:47:03+05:30"
+}

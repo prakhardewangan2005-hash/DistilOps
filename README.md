@@ -1,12 +1,12 @@
 # DistilOps — ML Control Plane for Model Distillation
-**Internal-Style AI Engineering Platform | Microsoft-Inspired**
+**Internal-Style AI Engineering Platform**
 
 DistilOps is an internal ML **Control Plane** for operationalizing **model distillation**. It focuses on *safe promotion*, *observability*, *Responsible AI enforcement*, and *release gating*—treating distillation as a **production decision**, not just a training step.
 
 ---
 
 ## Live Demo
-**Production (Public):**  
+**Production:**  
 https://cloud.uibakery.io/special-roast-carapils-dormammu/cOqOKZmn0Pbhai
 
 Demo Mode: Mock API enabled (contract-first design). Backend services (Azure ML, telemetry, monitoring) can be integrated without UI changes.
